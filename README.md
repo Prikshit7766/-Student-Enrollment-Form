@@ -38,3 +38,7 @@ If input data is not valid
 <p align="center">
   <img src="img/7.png" />
 </p>
+
+<p align="center">
+  <img src="img/8.png" />
+</p>
