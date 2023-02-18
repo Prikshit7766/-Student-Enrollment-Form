@@ -1,5 +1,6 @@
 # Student Enrollment Form
 
+This project creates a Student Enrollment Form that stores data in the STUDENT-TABLE relation of the SCHOOL-DB database. The form allows users to enter student information such as Roll-No, Full-Name, Class, Birth-Date, Address, and Enrollment-Date.
 
 
 ## Home page
@@ -39,6 +40,8 @@ If input data is not valid
   <img src="img/7.png" />
 </p>
 
+## Conclusion
+ The form allows users to enter and update student information and ensures that all fields have valid data and store all the data in jasonpowerDB
 <p align="center">
   <img src="img/8.png" />
 </p>
